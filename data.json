@@ -1,1 +1,18 @@
-
+{
+  "kategori": [
+    {
+      "nama": "Movies",
+      "videos": [
+        {
+          "judul": "Oshi no ko",
+          "genre": "Drama, Reincarnation, Seinen, Superanatural",
+          "sources": [
+            "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          ],
+          "produser": "Shueisha, Kadokawa",
+          "thumb": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
+        }
+      ]
+    }
+  ]
+}
