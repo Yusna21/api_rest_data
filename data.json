@@ -11,7 +11,14 @@
           ],
           "produser": "Shueisha, Kadokawa",
           "thumb": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
-        }
+        },
+        "judul": "Isekai Shoukan wa Nidome Desu",
+        "genre": "Adventure, Comedy, Fanasy, Harem, Isekai, Romance",
+        "sources": [
+        "https://youtube.com"
+      ],
+      "produser": "ABC Animation",
+      "thumb": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
       ]
     }
   ]
